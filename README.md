@@ -3,7 +3,7 @@
 <p align="center">
   <img src="./Resources/ScreenShot (1).png"
     alt=" ScreenShot (1)"
-    style="width: 60%;" />
+    style="width: 100%;" />
 </p>
 
 HASHRATE MARKETPLACE
