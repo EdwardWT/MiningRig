@@ -24,5 +24,6 @@ With our web-based pool manager, you can control your rig or your rental from -a
 
 ## End
 
+I share it for educational purposes.
 That's it for now.</br>
 I hope you like this little project! ^^
