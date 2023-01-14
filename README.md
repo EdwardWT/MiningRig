@@ -3,19 +3,19 @@
 <p align="center">
   <img src="./Resources/ScreenShot (1).png"
     alt=" ScreenShot (1)"
-    style="width: 100%;" />
+    style="width: 90%;" />
 </p>
 
 <p align="center">
   <img src="./Resources/ScreenShot (2).png"
     alt=" ScreenShot (2)"
-    style="width: 100%;" />
+    style="width: 90%;" />
 </p>
 
 <p align="center">
   <img src="./Resources/ScreenShot (3).png"
     alt=" ScreenShot (3)"
-    style="width: 100%;" />
+    style="width: 90%;" />
 </p>
 
 HASHRATE MARKETPLACE
