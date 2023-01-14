@@ -1,5 +1,11 @@
 # MiningRig Crack
 
+<p align="center">
+  <img src="./resources/ScreenShot (1).png"
+    alt="Markdown ScreenShot (1)"
+    style="width: 40%;" />
+</p>
+
 HASHRATE MARKETPLACE
 Choose from thousands of real rigs available to lease and mine for you. Whether you're wanting to mine Bitcoin or a brand new alt-coin, mining is just a couple clicks away.
 
