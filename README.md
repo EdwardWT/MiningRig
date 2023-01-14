@@ -9,7 +9,7 @@ List your own hardware and earn more than mining directly. You never have to mon
 CRYPTOCURRENCY MINING RIGS
 A mining rig is a collection of specialised computing devices that use math hashing algorithms to secure a cryptocurrency network and generate coins as a reward to the miner.
 
-# WHAT We Offer
+# What We Offer
 Algorithms
 We offer the largest selection available, with over 100+ different mining algorithms. You can mine practically -any- coin you want.
 
