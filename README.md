@@ -1,8 +1,8 @@
 # MiningRig Crack
 
 <p align="center">
-  <img src="./resources/ScreenShot (1).png"
-    alt="ScreenShot (1)"
+  <img src="./Resources/ScreenShot (1).png"
+    alt=" ScreenShot (1)"
     style="width: 40%;" />
 </p>
 
