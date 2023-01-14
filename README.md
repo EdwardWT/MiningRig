@@ -6,6 +6,18 @@
     style="width: 100%;" />
 </p>
 
+<p align="center">
+  <img src="./Resources/ScreenShot (2).png"
+    alt=" ScreenShot (2)"
+    style="width: 100%;" />
+</p>
+
+<p align="center">
+  <img src="./Resources/ScreenShot (3).png"
+    alt=" ScreenShot (3)"
+    style="width: 100%;" />
+</p>
+
 HASHRATE MARKETPLACE
 Choose from thousands of real rigs available to lease and mine for you. Whether you're wanting to mine Bitcoin or a brand new alt-coin, mining is just a couple clicks away.
 
