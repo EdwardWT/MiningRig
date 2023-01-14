@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="./resources/ScreenShot (1).png"
-    alt="Markdown ScreenShot (1)"
+    alt="ScreenShot (1)"
     style="width: 40%;" />
 </p>
 
